@@ -1,7 +1,7 @@
 - 👋 Hi, I’m M Harshavardhan
-- 👀 I’m interested in Full stack webdevelopemnt and machine learning 
-- 🌱 I’m currently learning python and machine learning algorithims
-- 💞️ I’m looking to collaborate on ML and WebDev projects
+- 👀 I’m interested in Full stack web developement and machine learning(Beginner).
+- 🌱 I’m currently learning python and machine learning algorithims.
+- 💞️ I’m looking to collaborate on ML and WebDev projects.
 - 📫 📫 How to reach me? Reach me through  www.linkedin.com/in/m-harshavardhan/ on LinkedIn, or Email mharshaavardhann@gmail.com
 
 
