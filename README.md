@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshavardhanm07&label=Profile%20Visits&color=0e75b6&style=flat" alt="harshavardhanm07" /> </p>
 
 ## Connect with me
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/m-harshavardhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshavardhanm07" height="30" width="40" /></a>
 <a href="https://instagram.com/harshaagowdaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshaagowdaa" height="30" width="40" /></a>
 <a href="https://twitter.com/mharshaavardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mharshaavardhan" height="30" width="40" /></a>
