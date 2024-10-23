@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm M Harshavardhan</h1>
 
-- 👀 Interested in **Full Stack Web Development and Machine Learning**
+- 👀 Interested in **Data Engineering and Analytics**
 
-- 🌱 I’m currently learning **DSA in C++ and Full Stack Web Development**
+- 🌱 I’m currently learning **DSA in C++ and machine learning"**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshavardhanm07&label=Profile%20Visits&color=0e75b6&style=flat" alt="harshavardhanm07" /> </p>
 
