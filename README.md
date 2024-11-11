@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm M Harshavardhan</h1>
 
-- 👀 Interested in **Data Engineering and Analytics**
+- 👀 Interested in **Data Science and Analytics**
 
 - 🌱 I’m currently learning **DSA in C++ and machine learning"**
 
